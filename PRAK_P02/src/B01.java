@@ -1,11 +1,3 @@
-/*
-TUGAS PRAKTIKUM PERTEMUAN KE-02
-PEMROGRAMAN BERORIENTASI OBJEK, GANJIL 2022/2023
-NPM : 2113020008
-Nama : Muhammad Fajrul Fahmi
-Kelas : 2A
-*/
-
 import java.util.Scanner;
 import java.util.ArrayList;
 
