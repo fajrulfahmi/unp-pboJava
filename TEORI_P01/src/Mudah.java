@@ -1,14 +1,3 @@
-/*
-TUGAS PERTEMUAN KE-01
-PEMROGRAMAN BERORIENTASI OBJEK, GANJIL 2022/2023
-NPM : 2113020008
-Nama : Muhammad Fajrul Fahmi
-Kelas : 2A
-Kategori : Mudah
-Soal : Buatlah program untuk mencari nilai genap dan ganjil
-       menggunakan looping.
-
- */
 import java.util.Scanner;
 
 public class Mudah {
