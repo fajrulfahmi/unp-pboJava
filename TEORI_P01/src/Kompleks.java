@@ -1,15 +1,3 @@
-/*
-TUGAS PERTEMUAN KE-01
-PEMROGRAMAN BERORIENTASI OBJEK, GANJIL 2022/2023
-NPM : 2113020008
-Nama : Muhammad Fajrul Fahmi
-Kelas : 2A
-Kategori : Kompleks
-Soal : Urutkan data Array [34, 56, 111, 2, 56, 89, 77, 89]
-       menggunakan Bubble Sort secara Ascending.
-*/
-
-
 import java.util.Arrays;
 
 public class Kompleks {
