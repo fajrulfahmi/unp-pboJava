@@ -1,10 +1,4 @@
 /*
-TUGAS PERTEMUAN KE-01
-PEMROGRAMAN BERORIENTASI OBJEK, GANJIL 2022/2023
-NPM : 2113020008
-Nama : Muhammad Fajrul Fahmi
-Kelas : 2A
-Kategori : Sulit
 Soal : Hitung perkalian dari kedua matriks berikut :
        {1,2} x {5,6}
        {3,4}   {7,8}
