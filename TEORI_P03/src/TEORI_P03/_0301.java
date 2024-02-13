@@ -1,12 +1,3 @@
-/*
-TUGAS PERTEMUAN KE-03
-PEMROGRAMAN BERORIENTASI OBJEK, GANJIL 2022/2023
-NPM : 2113020008
-Nama : Muhammad Fajrul Fahmi
-Kelompok : 6
-Kelas : 2A
-*/
-
 package TEORI_P03;
 
 import java.io.*;
